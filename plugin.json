@@ -1,0 +1,23 @@
+{
+  "slug": "N8NYE",
+  "name": "N8NYE",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "N8NYE",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "N8NYERouter",
+      "name": "N8NYERouter",
+      "description": "Basic router for VCVRack",
+      "tags": []
+    }
+  ]
+}
